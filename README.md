@@ -19,11 +19,7 @@ Bem-vindo ao projeto **Tabela de Faltas da Vivi**! Este site foi criado para fac
 2. Abra o arquivo `index.html` em qualquer navegador.
 3. Use os botões `+` e `-` para ajustar o número de faltas em cada matéria.
 4. Pronto! Suas faltas serão salvas automaticamente.
-
-## 📷 Preview
-
-![Preview do site](https://user-images.githubusercontent.com/0000000/000000000-00000000-0000-0000-0000-000000000000.png)
-
+   
 ---
 
 Feito com 💙 para ajudar nos estudos!
