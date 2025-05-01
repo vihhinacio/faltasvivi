@@ -14,7 +14,7 @@ Bem-vindo ao projeto **Tabela de Faltas da Vivi**! Este site foi criado para fac
 
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/vihhinacio/faltasvivi.git
    ```
 2. Abra o arquivo `index.html` em qualquer navegador.
 3. Use os botões `+` e `-` para ajustar o número de faltas em cada matéria.
